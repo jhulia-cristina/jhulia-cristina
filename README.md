@@ -16,7 +16,7 @@
   <img align="center" alt="Jhulia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jhulia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jhulia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Jhulia-spiderman" height="30" width="40" src="https://giphy.com/gifs/dydbetting-veve-comi-ecomi-vIZFeP5NF6jpBR1pTO"
+  <img align="right" alt="Jhulia-spiderman" height="30" width="40" src="https://giphy.com/embed/vIZFeP5NF6jpBR1pTO">
 </div>
 
 ##
