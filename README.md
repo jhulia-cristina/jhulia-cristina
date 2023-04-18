@@ -10,7 +10,7 @@
 <div align="center">
 <a href="https://github.com/jhulia-cristina">
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=jhulia-cristina&count_private=true&show_icons=true&theme=radical&include_all_commits"/>
-<img heigth="180em" width="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhulia-cristina&langs_count=3&layout=compact&hide_progress=false&theme=radical"/>
+<img heigth="180em" width="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhulia-cristina&langs_count=3&layout=compact&hide_progress=false&theme=radical"/>
 </div>
 <div align="center"style="display: inline_block"><br>
   <img align="center" alt="Jhulia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
